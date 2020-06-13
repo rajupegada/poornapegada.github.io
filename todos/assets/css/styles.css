@@ -36,6 +36,11 @@ h2{
 	font-size: 50px;
 	font-weight: normal;
 }
+#y{
+	text-align: center;
+	color:white;
+
+}
 
 .fa-plus {
 	float: right;
